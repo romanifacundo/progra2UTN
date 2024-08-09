@@ -1,0 +1,8 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\bin\Debug\TPNro1_Programacion2.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\bin\Debug\TPNro1_Programacion2.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\bin\Debug\TPNro1_Programacion2.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\obj\Debug\TPNro1_Programacion2.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\obj\Debug\TPNro1_Programacion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\obj\Debug\TPNro1_Programacion2.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\obj\Debug\TPNro1_Programacion2.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\TP_Número1_Programación2\TPNro1_Programacion2\TPNro1_Programacion2\obj\Debug\TPNro1_Programacion2.pdb
