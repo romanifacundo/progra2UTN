@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\bin\Debug\Bucles.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\bin\Debug\Bucles.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\bin\Debug\Bucles.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\obj\Debug\Bucles.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\obj\Debug\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\obj\Debug\Bucles.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase2\Bucles\Bucles\obj\Debug\Bucles.pdb

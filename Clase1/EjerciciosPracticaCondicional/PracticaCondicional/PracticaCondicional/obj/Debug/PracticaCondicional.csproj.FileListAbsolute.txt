@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\bin\Debug\PracticaCondicional.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\bin\Debug\PracticaCondicional.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\bin\Debug\PracticaCondicional.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\obj\Debug\PracticaCondicional.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\obj\Debug\PracticaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\obj\Debug\PracticaCondicional.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\EjerciciosPracticaCondicional\PracticaCondicional\PracticaCondicional\obj\Debug\PracticaCondicional.pdb

@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\bin\Debug\AppMenuConsola.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\bin\Debug\AppMenuConsola.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\bin\Debug\AppMenuConsola.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\obj\Debug\AppMenuConsola.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\obj\Debug\AppMenuConsola.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\obj\Debug\AppMenuConsola.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase1\AppMenuConsola\AppMenuConsola\obj\Debug\AppMenuConsola.pdb

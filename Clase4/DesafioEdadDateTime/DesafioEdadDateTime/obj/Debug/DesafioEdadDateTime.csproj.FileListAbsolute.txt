@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\bin\Debug\DesafioEdadDateTime.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\bin\Debug\DesafioEdadDateTime.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\bin\Debug\DesafioEdadDateTime.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\obj\Debug\DesafioEdadDateTime.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\obj\Debug\DesafioEdadDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\obj\Debug\DesafioEdadDateTime.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase4\DesafioEdadDateTime\DesafioEdadDateTime\obj\Debug\DesafioEdadDateTime.pdb

@@ -1,0 +1,134 @@
+//1.Cree un programa que solicite un valor inicial y un valor final y que imprima todos los
+//números impares del rango ingresado.En caso no haya ningún número en el rango
+//establecido o el usuario haya ingresado un rango incorrecto, mostrar un mensaje
+//informativo.
+
+//int inicial, final;
+
+//Console.WriteLine("ingrese el valor inicial");
+//inicial = int.Parse(Console.ReadLine());
+//Console.WriteLine("ingrese el valor final");
+//final = int.Parse(Console.ReadLine());
+
+//if (inicial > final)
+//{
+//    Console.WriteLine("rango incorrecto");
+//}
+//else
+//{          
+//    bool banderaImp = false;
+//    Console.WriteLine("numeros impares en el rango:");
+
+//    for (int i = inicial; i <= final; i++)
+//    {
+//        if (i % 2 == 1)
+//        {
+//            Console.WriteLine(i);
+//            banderaImp = true;
+//        }
+//    }
+
+//    if (!banderaImp)
+//    {
+//        Console.WriteLine("no hay numeros impares ");
+//    }
+//}
+//Console.ReadKey();
+
+// Intento de diferentes formas de hacer el ejercicio.
+
+//while (inicial < final && final > inicial) 
+//{
+//    num = double.Parse(Console.ReadLine());
+
+//    if (num < inicial && num > final)
+//    {
+//        Console.WriteLine("INGRESE UN NUMERO DENTRO DEL RANGO");
+//    }
+
+//    if (num % 2 == 1)
+//    {
+//        Console.WriteLine("EL {0} es impar", num);
+//    }
+//    else
+//    {
+//        Console.WriteLine("USTED NO INGRESO NINGUN NUMERO IMPAR");
+//    }
+//}
+
+
+// Intento de diferentes formas de hacer el ejercicio.
+
+//int[] numeros = new int[rango];
+
+//for (int i = 0; i < rango  ; i++)
+//{
+//    Console.WriteLine("INGRESE UN CARACTER");
+//    numeros[i] = int.Parse(Console.ReadLine());
+//}
+
+//for (int i = 0; i < rango; i++)
+//{
+//    if (numeros[i] %2 ==1)
+//    {
+//        Console.WriteLine(numeros[i]);
+//    }
+//}
+
+//Console.ReadKey();
+
+
+/*************************************************************************************/
+
+
+//2.Cree un programa que muestre los 15 primeros múlƟplos de 4.
+
+//int mult = 4;
+//int cant = 15;
+
+//for (int i = 1; i <= cant; i++)
+//{
+//    Console.WriteLine(mult * i);
+//}
+
+//Console.ReadKey();
+
+// Otra manera.
+
+//for (int i = 0; i <= 66; i++)
+//{
+//    if (i %4==0)
+//    {
+//        Console.WriteLine(i);
+//    }         
+//}
+
+//Console.ReadKey();
+
+
+/*************************************************************************************/
+
+
+//4.Cree un programa que solicite la base y la altura de un cuadrilátero y que lo dibuje con
+//asteriscos(*).
+
+//    int bas, alt;
+
+//    Console.WriteLine("ingrerse base del cuadrilatero");
+//    bas = int.Parse(Console.ReadLine());
+//    Console.WriteLine("ingrerse altura del cuadrilatero");
+//    alt = int.Parse(Console.ReadLine());
+
+//    for (int i = 1; i < bas ; i++)
+//    {
+//        //Console.WriteLine("*"); // se defasa.
+
+//        for (int x = 1; x < alt; x++)
+//        {
+//            Console.Write("*");
+//        }
+
+//        Console.WriteLine();
+//    }
+
+//    Console.ReadKey();

@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AppMenuConsola
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // variables.
+            int ingreso, num1, num2, opcion;
+            
+            Console.Write("SI QUIERES INGRESAR AL SISTEMA PRESIONA (1) - ");
+            ingreso = int.Parse(Console.ReadLine());
+
+
+            while (ingreso == 1)
+            {
+                Console.WriteLine("\n");
+
+                // Armo menu y muestro por pantalla las opciones.
+                Console.WriteLine("*************************");
+                Console.WriteLine("ELIJA UNA OPCION DEL MENU");
+                Console.WriteLine("0) SUMAR");
+                Console.WriteLine("1) RESTAR");
+                Console.WriteLine("*************************");
+
+                // Leer Opcion que ingresa el usuario.
+                opcion = int.Parse(Console.ReadLine());
+
+                // Pedir al usuario numeros para las operaciones.
+                Console.WriteLine("Ingresa un numero");
+                num1 = int.Parse(Console.ReadLine());
+                Console.WriteLine("Ingresa otro numero");
+                num2 = int.Parse(Console.ReadLine());
+
+                // Armo switch y segun lo que ingrese el usuario me muestra el resultado de la operacion.
+                switch (opcion)
+                {
+                    case 0:
+                        // Muestro resultado de la operacion num1 + num2
+                        Console.Write("El resultado de la suma es {0}", num1 + num2);
+                        break;
+                    case 1:
+                        Console.Write("El resultado de la suma es {0}", num1 - num2);
+                        break;
+                    default:
+                        break;
+                }
+
+                Console.ReadKey();
+            }
+        }
+    }
+}
