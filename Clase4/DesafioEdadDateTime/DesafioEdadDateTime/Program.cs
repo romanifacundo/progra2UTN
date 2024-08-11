@@ -14,27 +14,36 @@ namespace DesafioEdadDateTime
             // Desafio usando DateTime debemos desarrollar un metodo que realice la logica del calculo de la edad de una persona
             // el usuario debe ingresar su fecha de nacimiento.
 
-            int fechaDeNacimiento , diaDeNacimiento, mesDeNacimiento;
+            DateTime fechaDeNacimiento;
+            string cadena;
 
-            Console.WriteLine("Ingresa tu fecha de nacimiento");
-            fechaDeNacimiento = DateTime.Parse(Console.ReadLine()).Year;
-            diaDeNacimiento = DateTime.Parse(Console.ReadLine()).Day;
-            mesDeNacimiento = DateTime.Parse(Console.ReadLine()).Month;
+            //diaDeNacimiento = DateTime.Parse(Console.ReadLine()).Day;
+            //mesDeNacimiento = DateTime.Parse(Console.ReadLine()).Month;
 
-            Console.WriteLine(calcularEdad(fechaDeNacimiento));
+            Console.WriteLine("Ingresa tu fecha de nacimiento (formato: dd/mm/yyyy):");
+            cadena = Console.ReadLine();
+
+            while (!DateTime.TryParse(cadena, out fechaDeNacimiento))
+            {
+                Console.WriteLine("Fecha no válida. Por favor, ingresa tu fecha de nacimiento en el formato dd/mm/yyyy:");
+                cadena = Console.ReadLine();
+            }
+            Console.WriteLine("Tu edad es: " + calcularEdad(fechaDeNacimiento));
 
             Console.ReadKey();
 
         }
 
-        static int calcularEdad(int fechaDeNacimiento) 
+        static int calcularEdad(DateTime fechaDeNacimiento)
         {
-            int edad;
-            int anoActual = DateTime.Now.Year; 
+            int edad = DateTime.Now.Year - fechaDeNacimiento.Year;
 
-            edad = anoActual - fechaDeNacimiento;
+            if (DateTime.Now < fechaDeNacimiento.AddYears(edad))
+            {
+                edad--;
+            }
 
-            return edad;
+            return edad;  
         }
     }
 }
