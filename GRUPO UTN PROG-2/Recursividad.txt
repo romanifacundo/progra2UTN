@@ -1,17 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Recursividad
-{
-    using System;
-    using System.Collections;
-    using System.Runtime.ConstrainedExecution;
-
-    class Program
-    {
         //1. Crear un programa que implemente una función recursiva que calcule el resultado de
         //elevar un entero a otro entero(números solicitados al usuario). Esta función debe
         //crearse de forma recursiva.
@@ -88,6 +75,3 @@ namespace Recursividad
 
             Console.ReadKey();
         }
-    }
-
-}
