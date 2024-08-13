@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\bin\Debug\DesafioNiveles.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\bin\Debug\DesafioNiveles.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\bin\Debug\DesafioNiveles.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\obj\Debug\DesafioNiveles.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\obj\Debug\DesafioNiveles.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\obj\Debug\DesafioNiveles.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase6\DesafioNiveles\DesafioNiveles\obj\Debug\DesafioNiveles.pdb

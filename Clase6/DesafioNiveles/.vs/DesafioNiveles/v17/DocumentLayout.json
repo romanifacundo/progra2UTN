@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase6\\DesafioNiveles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBE5746-29B5-48A9-8066-DA17515E7572}|DesafioNiveles\\DesafioNiveles.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\clase6\\desafioniveles\\desafioniveles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBE5746-29B5-48A9-8066-DA17515E7572}|DesafioNiveles\\DesafioNiveles.csproj|solutionrelative:desafioniveles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase6\\DesafioNiveles\\DesafioNiveles\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioNiveles\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase6\\DesafioNiveles\\DesafioNiveles\\Program.cs",
+              "RelativeToolTip": "DesafioNiveles\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:24.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
