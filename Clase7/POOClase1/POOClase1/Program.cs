@@ -62,12 +62,12 @@ namespace POOClase1
         public int edad;
         public string correo;
 
-        public Alumno(string nom, string apell, int ed, string corr)
-        {
-            this.nombre = nom;
-            this.apellido = apell;
+        public Alumno(string ap, string no, int ed, string co)
+        {      
+            this.apellido = ap;
+            this.nombre = no;
             this.edad = ed;
-            this.correo = corr;
+            this.correo = co;
         }
 
         public void Mostrar()
