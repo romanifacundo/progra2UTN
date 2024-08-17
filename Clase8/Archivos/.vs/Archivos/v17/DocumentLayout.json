@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase8\\Archivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81958E43-13B2-4924-9E96-8768AA9ADA1A}|Archivos\\Archivos.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\clase8\\archivos\\archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81958E43-13B2-4924-9E96-8768AA9ADA1A}|Archivos\\Archivos.csproj|solutionrelative:archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase8\\Archivos\\Archivos\\Program.cs",
+              "RelativeDocumentMoniker": "Archivos\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Clase8\\Archivos\\Archivos\\Program.cs",
+              "RelativeToolTip": "Archivos\\Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:03:21.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
