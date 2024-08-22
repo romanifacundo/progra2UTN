@@ -24,13 +24,7 @@ namespace Archivos
             FileStream Archivo;
             StreamWriter StreamGrabar;
             StreamReader StreamLeer;
-
-            //string DNI;
-            //string apellido;
-            //string nombre;
-            //double sueldo;
             string cad;
-
             Char Opcion;
 
             Menu();
@@ -62,8 +56,10 @@ namespace Archivos
 
                         while (StreamLeer.EndOfStream == false)
                         {
+
                             cad = StreamLeer.ReadLine();
-                            Console.WriteLine(cad);
+                            ManipularCadena(cad);
+                            //Console.WriteLine();
                         }
 
                         StreamLeer.Close();
@@ -91,12 +87,12 @@ namespace Archivos
             Console.WriteLine(" 1) - Cargar Datos | 2) - Leer Datos | 3) - Salir ");
         }
 
-        static void PedirDatos()
-        {
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Ingresa DNI - Ingresa Apellido - Ingresa Nombre - Ingresa Sueldo");
-        }
+        //static void PedirDatos()
+        //{
+        //    Console.Clear();
+        //    Console.ForegroundColor = ConsoleColor.Green;
+        //    Console.WriteLine("Ingresa DNI - Ingresa Apellido - Ingresa Nombre - Ingresa Sueldo");
+        //}
 
         static string PedirDatos2()
         {
@@ -105,7 +101,7 @@ namespace Archivos
             string nombre;
             double sueldo;
             string cad;
-
+            
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Green;
             //Console.WriteLine("Ingresa DNI - Ingresa Apellido - Ingresa Nombre - Ingresa Sueldo");
@@ -118,9 +114,27 @@ namespace Archivos
             Console.WriteLine("Ingresa Sueldo");
             sueldo = Double.Parse(Console.ReadLine());
 
-            cad = $"DNI: {DNI} - Apellido: {apellido} - Nombre: {nombre} - Sueldo: {sueldo}";
+            cad = $"{DNI},{apellido},{nombre},{sueldo}";
 
             return cad;
+        }
+
+        static void ManipularCadena(string cad) 
+        {
+            string[] partes = cad.Split(',');
+
+            //for (int i = 0; i < partes.Length; i++)
+            //{
+            //    Console.Write(partes[i]);
+            //}
+            //string DNI = partes[0];
+            //string apellido = partes[1];
+            //string nombre = partes[2];
+            //string sueldo = partes[3];
+
+            //string resultado = $"DNI: {DNI}, Apellido: {apellido}, Nombre: {nombre}, Sueldo: {sueldo}";
+            
+            //return resultado;
         }
 
     }

@@ -1,0 +1,3 @@
+DNI: 35221396  Apellido: Romani  Nombre: Facundo  Sueldo: 22200
+35221396RomaniFacundo22000
+99000000,Roma,Cristian,50000

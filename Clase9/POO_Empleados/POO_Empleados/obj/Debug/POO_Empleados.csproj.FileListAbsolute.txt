@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\bin\Debug\POO_Empleados.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\bin\Debug\POO_Empleados.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\bin\Debug\POO_Empleados.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\obj\Debug\POO_Empleados.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\obj\Debug\POO_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\obj\Debug\POO_Empleados.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9\POO_Empleados\POO_Empleados\obj\Debug\POO_Empleados.pdb
