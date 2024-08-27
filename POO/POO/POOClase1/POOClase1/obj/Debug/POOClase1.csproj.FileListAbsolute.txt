@@ -1,0 +1,7 @@
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\bin\Debug\POOClase1.exe.config
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\bin\Debug\POOClase1.exe
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\bin\Debug\POOClase1.pdb
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\obj\Debug\POOClase1.csproj.AssemblyReference.cache
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\obj\Debug\POOClase1.csproj.CoreCompileInputs.cache
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\obj\Debug\POOClase1.exe
+C:\Users\aruggiero\Desktop\POO\POOClase1\POOClase1\obj\Debug\POOClase1.pdb

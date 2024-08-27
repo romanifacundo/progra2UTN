@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Nueva carpeta\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb

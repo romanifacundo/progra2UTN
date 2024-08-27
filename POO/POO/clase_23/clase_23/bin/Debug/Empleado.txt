@@ -1,0 +1,3 @@
+30300200,Dario,Apellido,100000
+38398592,Alexis,Ruggiero,200000
+40444555,Facu,Romani,400000

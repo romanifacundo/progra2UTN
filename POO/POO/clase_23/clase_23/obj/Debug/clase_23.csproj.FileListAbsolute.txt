@@ -1,0 +1,14 @@
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\bin\Debug\clase_23.exe.config
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\bin\Debug\clase_23.exe
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\bin\Debug\clase_23.pdb
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\obj\Debug\clase_23.csproj.AssemblyReference.cache
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\obj\Debug\clase_23.csproj.CoreCompileInputs.cache
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\obj\Debug\clase_23.exe
+C:\Users\aruggiero\Desktop\POO\clase_23\clase_23\obj\Debug\clase_23.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\bin\Debug\clase_23.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\bin\Debug\clase_23.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\bin\Debug\clase_23.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\obj\Debug\clase_23.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\obj\Debug\clase_23.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\obj\Debug\clase_23.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\clase_23\clase_23\obj\Debug\clase_23.pdb

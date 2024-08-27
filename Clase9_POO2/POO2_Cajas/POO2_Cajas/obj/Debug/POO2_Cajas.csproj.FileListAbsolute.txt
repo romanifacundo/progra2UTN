@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\bin\Debug\POO2_Cajas.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\bin\Debug\POO2_Cajas.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\bin\Debug\POO2_Cajas.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\obj\Debug\POO2_Cajas.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\obj\Debug\POO2_Cajas.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\obj\Debug\POO2_Cajas.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Clase9_POO2\POO2_Cajas\POO2_Cajas\obj\Debug\POO2_Cajas.pdb

@@ -1,0 +1,7 @@
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.exe.config
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.exe
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.pdb
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.csproj.AssemblyReference.cache
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.exe
+C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.pdb
