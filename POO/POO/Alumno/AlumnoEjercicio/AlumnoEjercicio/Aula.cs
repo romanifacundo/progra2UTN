@@ -13,7 +13,7 @@ namespace AlumnoEjercicio
         private List<Alumno> _alumnosLista;
 
 
-        //Constructor.
+        //Constructores.
         public Aula() 
         {
             this.NombreAula = "";

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\poo\\poo\\alumno\\alumnoejercicio\\alumnoejercicio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\alumnoejercicio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|solutionrelative:alumnoejercicio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\alumnoejercicio\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|solutionrelative:alumnoejercicio\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\poo\\poo\\alumno\\alumnoejercicio\\alumnoejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|solutionrelative:alumnoejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\alumnoejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|solutionrelative:alumnoejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\poo\\poo\\alumno\\alumnoejercicio\\alumnoejercicio\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CE3AEE-DB1F-4F28-BFF0-DD88AB743403}|AlumnoEjercicio\\AlumnoEjercicio.csproj|solutionrelative:alumnoejercicio\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Aula.cs",
               "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\AlumnoEjercicio\\Aula.cs",
               "RelativeDocumentMoniker": "AlumnoEjercicio\\Aula.cs",
               "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\AlumnoEjercicio\\Aula.cs",
               "RelativeToolTip": "AlumnoEjercicio\\Aula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T03:04:34.06Z",
               "EditorCaption": ""
@@ -45,14 +45,14 @@
               "RelativeDocumentMoniker": "AlumnoEjercicio\\Alumno.cs",
               "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\AlumnoEjercicio\\Alumno.cs",
               "RelativeToolTip": "AlumnoEjercicio\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T02:45:32.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\POO\\POO\\Alumno\\AlumnoEjercicio\\AlumnoEjercicio\\Program.cs",
               "RelativeDocumentMoniker": "AlumnoEjercicio\\Program.cs",
@@ -60,7 +60,8 @@
               "RelativeToolTip": "AlumnoEjercicio\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:45:32.588Z"
+              "WhenOpened": "2024-08-28T02:45:32.588Z",
+              "EditorCaption": ""
             }
           ]
         }

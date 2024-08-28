@@ -16,7 +16,7 @@ namespace AlumnoEjercicio
         private string _genero;
 
 
-        //Constructor.
+        //Constructores.
         public Alumno()
         {
             this._edad = 0;
@@ -43,6 +43,7 @@ namespace AlumnoEjercicio
                 return DateTime.Now.Year - this._fechaNac.Year; 
             }
         }
+
         public string Nombre 
         {
             get 
@@ -80,6 +81,7 @@ namespace AlumnoEjercicio
 
             
         }
+
         public string Genero
         {
             get
