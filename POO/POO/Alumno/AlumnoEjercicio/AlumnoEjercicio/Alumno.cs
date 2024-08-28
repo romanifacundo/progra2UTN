@@ -77,9 +77,7 @@ namespace AlumnoEjercicio
             set 
             {
                 this._fechaNac = value;            
-            }
-
-            
+            }    
         }
 
         public string Genero
