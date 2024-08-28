@@ -8,35 +8,39 @@ namespace AlumnoEjercicio
 {
     internal class Alumno
     {
-        // Propiedades privadas.
-        private int edad;
-        private string nombre;
-        private string apellido;
-        private DateTime fechaNacimiento;
-        private string genero;
+        //Propiedades privadas.
+        private int _edad;
+        private string _nombre;
+        private string _apellido;
+        private DateTime _fechaNac;
+        private string _genero;
 
-        // Constructor.
-        public Alumno(int edad, string nombre, string apellido, DateTime fechaNacimiento, string genero) 
+
+        //Constructor.
+        public Alumno()
         {
-            this.edad = edad;
+            this._edad = 0;
+            this.Nombre = "";
+            this.Apellido = "";
+            this.FechaNac = DateTime.MinValue;
+            this.Genero = "";
+        }
+
+        public Alumno(string nombre, string apellido, DateTime fechaNac, string genero) 
+        {
             this.Nombre = nombre;
             this.Apellido = apellido;
-            this.FechaNacimiento = fechaNacimiento;
+            this.FechaNac = fechaNac;
             this.Genero = genero;   
         }
 
-        // Metodo
-        public void MostrarDatos() 
-        {
-            Console.WriteLine("Edad: {0}, Nombre: {1}, Apellido {2}, Fecha de Nacimiento {3}, Genero {4}", this.Edad, this.Nombre, this.Apellido, this.FechaNacimiento, this.Genero);
-        }
 
-        // Propiedades publicas
+        //Propiedades publicas.
         public int Edad 
         {
             get 
             {
-                return this.edad; 
+                return DateTime.Now.Year - this._fechaNac.Year; 
             }
         }
 
@@ -44,11 +48,11 @@ namespace AlumnoEjercicio
         {
             get 
             {
-                return this.nombre; 
+                return this._nombre; 
             }
             set 
             {
-                this.nombre = value;
+                this._nombre = value;
             }
         }
 
@@ -56,23 +60,23 @@ namespace AlumnoEjercicio
         { 
             get 
             { 
-                return this.apellido; 
+                return this._apellido; 
             }
             set 
             { 
-                this.apellido = value;
+                this._apellido = value;
             }
         }
         
-       public DateTime FechaNacimiento
+       public DateTime FechaNac
         {
             get
             {
-                return this.fechaNacimiento;
+                return this._fechaNac;
             }
             set 
             {
-                this.fechaNacimiento = value;            
+                this._fechaNac = value;            
             }
 
             
@@ -81,12 +85,19 @@ namespace AlumnoEjercicio
         {
             get
             {
-                return this.genero; 
+                return this._genero; 
             }
             set 
             {
-                this.genero = value; 
+                this._genero = value; 
             }
+        }
+
+
+        //Metodos.
+        public void MostrarDatos()
+        {
+            Console.WriteLine("Edad: {0}, Nombre: {1}, Apellido {2}, Fecha de Nacimiento {3}, Genero {4}", this.Edad, this.Nombre, this.Apellido, this.FechaNac, this.Genero);
         }
     }
 }

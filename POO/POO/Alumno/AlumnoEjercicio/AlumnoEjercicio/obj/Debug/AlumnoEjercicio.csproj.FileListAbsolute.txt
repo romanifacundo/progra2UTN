@@ -5,3 +5,10 @@ C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\
 C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.csproj.CoreCompileInputs.cache
 C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.exe
 C:\Users\aruggiero\Desktop\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\bin\Debug\AlumnoEjercicio.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\POO\POO\Alumno\AlumnoEjercicio\AlumnoEjercicio\obj\Debug\AlumnoEjercicio.pdb
