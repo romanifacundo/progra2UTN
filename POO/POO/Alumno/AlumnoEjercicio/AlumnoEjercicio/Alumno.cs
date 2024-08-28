@@ -43,7 +43,6 @@ namespace AlumnoEjercicio
                 return DateTime.Now.Year - this._fechaNac.Year; 
             }
         }
-
         public string Nombre 
         {
             get 
