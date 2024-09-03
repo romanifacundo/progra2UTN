@@ -13,19 +13,32 @@ namespace ClienteBanco
         {
             //___Variables___
             string _archivoDeClientes = "cli.txt";
+            string validarNum;
             int opcion;
             bool bucle = true;
+            
 
             Banco banco = new Banco();//___Instancia de clase Banco para acceder a los metodos___
             banco.LeerArchivo(_archivoDeClientes);
             
             Menu();//___Llamado al Menu___
 
+            Console.WriteLine("_________________________");
+            Console.WriteLine("Elige una opcion del menu");
+            Console.WriteLine("_________________________");
+
             while (bucle)
             {
-                               
-                opcion = int.Parse(Console.ReadLine());
-            
+                
+                validarNum = Console.ReadLine();
+
+                while (!int.TryParse(validarNum , out opcion)) 
+                {
+                    Console.WriteLine("Debes ingresar un numero");
+                    validarNum = Console.ReadLine();
+                    Console.Clear();
+                }
+                
                 switch (opcion)
                 {
                     case 1:
