@@ -1,0 +1,14 @@
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache

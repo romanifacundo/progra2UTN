@@ -1,0 +1,7 @@
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\fromani\Desktop\Recursiva\Archivos\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb

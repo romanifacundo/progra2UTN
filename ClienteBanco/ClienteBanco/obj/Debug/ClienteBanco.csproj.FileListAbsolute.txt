@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\bin\Debug\ClienteBanco.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\bin\Debug\ClienteBanco.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\bin\Debug\ClienteBanco.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\obj\Debug\ClienteBanco.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\obj\Debug\ClienteBanco.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\obj\Debug\ClienteBanco.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\ClienteBanco\ClienteBanco\obj\Debug\ClienteBanco.pdb
