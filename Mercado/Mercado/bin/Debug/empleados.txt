@@ -1,0 +1,5 @@
+34678901;González;María;120000
+28945678;Pérez;Juan;95000
+36789456;Rodríguez;Lucía;110000
+31567892;López;Carlos;105000
+35467890;Martínez;Ana;98000
