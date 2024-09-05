@@ -159,6 +159,12 @@ namespace Mercado
             int cantAlm = 0;
             int cantLib = 0;
             int cantElec = 0;
+            int totalAlm = 0;
+            int totalLib = 0;
+            int totalElec = 0;
+            int promedioAlm = 0;
+            int promedioLib = 0;
+            int promedioElec = 0;
 
             foreach (Articulo art in this._listaArticulosRegistrados)
             {
@@ -167,23 +173,32 @@ namespace Mercado
                 if(art.Categoria == "almacen") 
                 {
                     cantAlm += art.Stock;
+                    totalAlm++;
+                    promedioAlm = cantAlm / totalAlm;
                 }
                 else if(art.Categoria == "libreria")
                 {
                     cantLib += art.Stock;
+                    totalLib++;
+                    promedioLib = cantLib / totalLib;
                 }
                 else
                 {
                     cantElec += art.Stock;
+                    totalElec++;
+                    promedioElec = cantElec / totalElec;
                 }
             }
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("______________________________");
             Console.WriteLine($"La cantidad de articulos de la categotia almacen es: {cantAlm}");
+            Console.WriteLine($"Promedio del precio unitario de categoría almacen es: {promedioAlm}");
             Console.WriteLine("______________________________");
             Console.WriteLine($"La cantidad de articulos de la categotia libreria es: {cantLib}");
+            Console.WriteLine($"Promedio del precio unitario de categoría libreria es: {promedioLib}");
             Console.WriteLine("______________________________");
             Console.WriteLine($"La cantidad de articulos de la categotia electronica es: {cantElec}");
+            Console.WriteLine($"Promedio del precio unitario de categoría electronica es: {promedioElec}");
         }
 
     }
