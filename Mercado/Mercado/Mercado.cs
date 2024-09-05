@@ -138,18 +138,52 @@ namespace Mercado
 
         public void EmpleadosContratados()
         {
+            int totalEmp = 0;
+            float tolSuel = 0;
+
             foreach (Empleado emp in this._listaEmpContra)
             {
-                Console.WriteLine(emp.Nombre + " " + emp.Apellido + " " + emp.Sueldo + " " + emp.DNI);
+                Console.WriteLine(emp.DNI + " " + emp.Apellido + " " + emp.Nombre + " " + emp.Sueldo);
+                totalEmp = this._listaEmpContra.Count();
+                tolSuel += emp.Sueldo;
             }
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("______________________________");
+            Console.WriteLine($"El total del los empleados es: {totalEmp}");
+            Console.WriteLine("______________________________");
+            Console.WriteLine($"El total de sueldo es: {tolSuel}");
         }
 
         public void ArticulosRegistrados()
         {
+            int cantAlm = 0;
+            int cantLib = 0;
+            int cantElec = 0;
+
             foreach (Articulo art in this._listaArticulosRegistrados)
             {
-                Console.WriteLine(art.IdArt + " " + art.DescArt + " " + art.Stock + " " + art.PrecioUnitario);
+                Console.WriteLine(art.IdArt + " " + art.DescArt + " " + art.Categoria + " " + art.Stock + " " + art.PrecioUnitario);
+                
+                if(art.Categoria == "almacen") 
+                {
+                    cantAlm += art.Stock;
+                }
+                else if(art.Categoria == "libreria")
+                {
+                    cantLib += art.Stock;
+                }
+                else
+                {
+                    cantElec += art.Stock;
+                }
             }
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("______________________________");
+            Console.WriteLine($"La cantidad de articulos de la categotia almacen es: {cantAlm}");
+            Console.WriteLine("______________________________");
+            Console.WriteLine($"La cantidad de articulos de la categotia libreria es: {cantLib}");
+            Console.WriteLine("______________________________");
+            Console.WriteLine($"La cantidad de articulos de la categotia electronica es: {cantElec}");
         }
 
     }
