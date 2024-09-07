@@ -13,9 +13,16 @@ namespace Mercado
         private string _apellido;
         private string _nombre; 
         private float _sueldo;
-        
+
 
         //___Constructores___
+        public Empleado()
+        {
+            this.DNI = 0;
+            this.Apellido = "";
+            this.Nombre = "";
+            this.Sueldo = 0;
+        }
         public Empleado(long dni, string apellido , string nombre, float sueldo) 
         {
             this.DNI = dni;
@@ -76,5 +83,9 @@ namespace Mercado
 
 
         //___Metodos___
+        public void MostrarDatosEmpleado() 
+        {
+            Console.WriteLine($"DNI: {this.DNI} , Apellido: {this.Apellido}, Nombre: {this.Nombre}, Sueldo: {this.Sueldo}");
+        }
     }
 }

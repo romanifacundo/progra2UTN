@@ -11,9 +11,7 @@ namespace Mercado
     {
         //___Propiedades privadas___
         private string _razonSocial;
-        private int _cantEmpleado;
         private string _direcInstitu;
-        private int _cantArticulos;
         private List<Empleado> _listaEmpContra;
         private List<Articulo> _listaArticulosRegistrados;
 
@@ -21,16 +19,15 @@ namespace Mercado
         //___Constructores___
         public Mercado()
         {
-            this._listaEmpContra = new List<Empleado>();
-            this._listaArticulosRegistrados = new List<Articulo>();
+            this.RazonSocial = "";
+            this.Direccion = "";
         }
-
-        public Mercado(string razSo, int cantEmp, string direc, int cantArt)
+        public Mercado(string razSo, string direc)
         {
             this.RazonSocial = razSo;
-            this._cantEmpleado = cantEmp;
             this.Direccion = direc;
-            this._cantEmpleado = cantArt;
+            this._listaEmpContra = new List<Empleado>();
+            this._listaArticulosRegistrados = new List<Articulo>();
         }
 
 
@@ -47,14 +44,6 @@ namespace Mercado
             }
         }
 
-        public int CantidadEmpleado
-        {
-            get
-            {
-                return this._cantEmpleado;
-            }
-        }
-
         public string Direccion
         {
             get
@@ -67,47 +56,9 @@ namespace Mercado
             }
         }
 
-        public int CantArticulo
-        {
-            get
-            {
-                return this._cantArticulos;
-            }
-        }
-
 
         //___Metodos___
-        public void LeerArchivoArticulosRegis(string archivoArticulos)
-        {
-            FileStream Archivo;
-            StreamReader Leer;
-            string cad;
-
-            Archivo = new FileStream(archivoArticulos, FileMode.Open);
-            Leer = new StreamReader(Archivo);
-
-            if (File.Exists(archivoArticulos))
-            {
-                while (!Leer.EndOfStream)
-                {
-                    cad = Leer.ReadLine();
-                    string[] datos = cad.Split(';');
-                    Articulo art = new Articulo(
-                         int.Parse(datos[0]),
-                         datos[1],
-                         datos[2],
-                         int.Parse(datos[3]),
-                         int.Parse(datos[4]));
-
-                    this._listaArticulosRegistrados.Add(art);
-                }
-            }
-
-            Leer.Close();
-            Archivo.Close();
-        }
-
-        public void LeerArchivoEmpleado(string archivoEmple)
+        public void CargarEmpleados(string archivoEmple)
         {
             FileStream Archivo;
             StreamReader Leer;
@@ -116,20 +67,44 @@ namespace Mercado
             Archivo = new FileStream(archivoEmple, FileMode.Open);
             Leer = new StreamReader(Archivo);
 
-            if (File.Exists(archivoEmple))
+            while (!Leer.EndOfStream)
             {
-                while (!Leer.EndOfStream)
-                {
-                    cad = Leer.ReadLine();
-                    string[] datos = cad.Split(';');
-                    Empleado emp = new Empleado(
-                        long.Parse(datos[0]),
-                        datos[1],
-                        datos[2],
-                        float.Parse(datos[3]));
+                cad = Leer.ReadLine();
+                string[] datos = cad.Split(';');
+                Empleado emp = new Empleado(
+                    long.Parse(datos[0]),
+                    datos[1],
+                    datos[2],
+                    float.Parse(datos[3]));
 
-                    this._listaEmpContra.Add(emp);
-                }
+                this._listaEmpContra.Add(emp);
+            }
+
+            Leer.Close();
+            Archivo.Close();
+        }
+
+        public void CargarArticulos(string archivoArticulos)
+        {
+            FileStream Archivo;
+            StreamReader Leer;
+            string cad;
+
+            Archivo = new FileStream(archivoArticulos, FileMode.Open);
+            Leer = new StreamReader(Archivo);
+
+            while (!Leer.EndOfStream)
+            {
+                cad = Leer.ReadLine();
+                string[] datos = cad.Split(';');
+                Articulo art = new Articulo(
+                     int.Parse(datos[0]),
+                     datos[1],
+                     datos[2],
+                     int.Parse(datos[3]),
+                     int.Parse(datos[4]));
+
+                this._listaArticulosRegistrados.Add(art);
             }
 
             Leer.Close();
@@ -143,7 +118,7 @@ namespace Mercado
 
             foreach (Empleado emp in this._listaEmpContra)
             {
-                Console.WriteLine(emp.DNI + " " + emp.Apellido + " " + emp.Nombre + " " + emp.Sueldo);
+                emp.MostrarDatosEmpleado();
                 totalEmp = this._listaEmpContra.Count();
                 tolSuel += emp.Sueldo;
             }
@@ -168,15 +143,15 @@ namespace Mercado
 
             foreach (Articulo art in this._listaArticulosRegistrados)
             {
-                Console.WriteLine(art.IdArt + " " + art.DescArt + " " + art.Categoria + " " + art.Stock + " " + art.PrecioUnitario);
-                
-                if(art.Categoria == "almacen") 
+                art.MostrarDatosArticulo();
+
+                if (art.Categoria == "almacen")
                 {
                     cantAlm += art.Stock;
                     totalAlm++;
                     promedioAlm = cantAlm / totalAlm;
                 }
-                else if(art.Categoria == "libreria")
+                else if (art.Categoria == "libreria")
                 {
                     cantLib += art.Stock;
                     totalLib++;

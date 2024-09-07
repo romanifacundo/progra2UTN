@@ -14,8 +14,8 @@ namespace Mercado
             string _acrhArt = "articulos.txt";
             int opcion;
 
-            Mercado mercado = new Mercado();
-                       
+            Mercado mercado = new Mercado("", "");
+            
             Menu();
             Console.WriteLine("Debes elegir una opcion del MENU");
             opcion = int.Parse(Console.ReadLine());
@@ -23,13 +23,13 @@ namespace Mercado
             switch (opcion)
             {
                 case 1:
-                    mercado.LeerArchivoEmpleado(_acrhEmp);
+                    mercado.CargarEmpleados(_acrhEmp);
                     mercado.EmpleadosContratados();
                     break;
                 case 2:
                     Console.WriteLine("\n");
                     Console.ForegroundColor = ConsoleColor.Green;
-                    mercado.LeerArchivoArticulosRegis(_acrhArt);
+                    mercado.CargarArticulos(_acrhArt);
                     mercado.ArticulosRegistrados();
                     break;
                 default:

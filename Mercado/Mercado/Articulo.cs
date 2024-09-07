@@ -14,10 +14,17 @@ namespace Mercado
         private string _categoria;
         private int _stock;
         private int _precioUnitario;
-        
 
 
         //___Constructores___
+        public Articulo()
+        {
+            this.IdArt = 0;
+            this.DescArt = "";
+            this.Categoria = "";
+            this.Stock = 0;
+            this.PrecioUnitario = 0;
+        }
         public Articulo(int idArticulo, string descArticulo, string categoria, int stock, int precioUnitario )
         {
             this.IdArt = idArticulo;
@@ -91,6 +98,9 @@ namespace Mercado
 
 
         //___Metodos___
-
+        public void MostrarDatosArticulo()
+        {
+            Console.WriteLine($"ID: {this.IdArt} , Descripcion: {this.DescArt}, Categoria: {this.Categoria}, Stock: {this.Stock}, Precio Unitario: {this.PrecioUnitario}");
+        }
     }
 }
