@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\mercado\\mercado\\mercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|solutionrelative:mercado\\mercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\mercado\\mercado\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|solutionrelative:mercado\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\mercado\\mercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404B61A-70B4-481D-AF87-26A3AB1B73FB}|Mercado\\Mercado.csproj|solutionrelative:mercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Program.cs",
+              "RelativeDocumentMoniker": "Mercado\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Program.cs",
+              "RelativeToolTip": "Mercado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:09:34.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Articulo.cs",
+              "RelativeDocumentMoniker": "Mercado\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Articulo.cs",
+              "RelativeToolTip": "Mercado\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:12:37.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mercado.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Mercado.cs",
+              "RelativeDocumentMoniker": "Mercado\\Mercado.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Mercado\\Mercado\\Mercado.cs",
+              "RelativeToolTip": "Mercado\\Mercado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:09:40.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

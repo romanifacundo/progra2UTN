@@ -43,10 +43,12 @@ namespace Mercado
         {
             string[] menu = { "1)Reporte de empleados", "2)Reporte de artículos" };
 
+            Console.WriteLine("_______________________________");
             for (int i = 0; i < menu.Length; i++)
             {
                 Console.WriteLine(menu[i]);
             }
+            Console.WriteLine("_______________________________");
         }
     }
 }
