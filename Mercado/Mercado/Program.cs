@@ -14,7 +14,7 @@ namespace Mercado
             string _acrhArt = "articulos.txt";
             int opcion;
 
-            Mercado mercado = new Mercado("", "");
+            Mercado mercado = new Mercado("em", "em");
             
             Menu();
             Console.WriteLine("Debes elegir una opcion del MENU");
@@ -32,7 +32,7 @@ namespace Mercado
                     mercado.CargarArticulos(_acrhArt);
                     mercado.ArticulosRegistrados();
                     break;
-                default:
+                default: 
                     break;
             }
 

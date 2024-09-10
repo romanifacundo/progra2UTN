@@ -85,10 +85,8 @@ namespace Mercado
         //___Metodos___
         public void MostrarDatosEmpleado() 
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("__________________________________________________________________________________________");
-            Console.WriteLine($"DNI: {this.DNI} , Apellido: {this.Apellido}, Nombre: {this.Nombre}, Sueldo: {this.Sueldo}");
-            Console.WriteLine("__________________________________________________________________________________________");
+            Console.ForegroundColor = ConsoleColor.Blue;     
+            Console.WriteLine($"DNI: {this.DNI}, Apellido: {this.Apellido}, Nombre: {this.Nombre}, Sueldo: {this.Sueldo}");
         }
     }
 }

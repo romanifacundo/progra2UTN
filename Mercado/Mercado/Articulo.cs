@@ -100,7 +100,7 @@ namespace Mercado
         //___Metodos___
         public void MostrarDatosArticulo()
         {
-            Console.WriteLine($"ID: {this.IdArt} , Descripcion: {this.DescArt}, Categoria: {this.Categoria}, Stock: {this.Stock}, Precio Unitario: {this.PrecioUnitario}");
+            Console.WriteLine($"ID: {this.IdArt}, Descripcion: {this.DescArt}, Categoria: {this.Categoria}, Stock: {this.Stock}, Precio Unitario: {this.PrecioUnitario}");
         }
     }
 }
