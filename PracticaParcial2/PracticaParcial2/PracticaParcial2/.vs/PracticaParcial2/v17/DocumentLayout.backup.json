@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\practicaparcial2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|solutionrelative:practicaparcial2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\practicaparcial2\\practicaparcial2\\practicaparcial2\\practicaparcial2\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|solutionrelative:practicaparcial2\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\practicaparcial2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF136D-0680-4E96-A38B-0CB71CF5A9E7}|PracticaParcial2\\PracticaParcial2.csproj|solutionrelative:practicaparcial2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Negocio.cs",
+              "RelativeDocumentMoniker": "PracticaParcial2\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Negocio.cs",
+              "RelativeToolTip": "PracticaParcial2\\Negocio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:35:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Producto.cs",
+              "RelativeDocumentMoniker": "PracticaParcial2\\Producto.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Producto.cs",
+              "RelativeToolTip": "PracticaParcial2\\Producto.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwEIAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:35:55.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaParcial2\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\PracticaParcial2\\Program.cs",
+              "RelativeToolTip": "PracticaParcial2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:35:55.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

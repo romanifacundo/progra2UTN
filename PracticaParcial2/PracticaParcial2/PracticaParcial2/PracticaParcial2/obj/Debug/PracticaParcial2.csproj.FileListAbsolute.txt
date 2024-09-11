@@ -1,0 +1,14 @@
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe.config
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.pdb
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.AssemblyReference.cache
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.CoreCompileInputs.cache
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.exe
+C:\Users\fromani\Desktop\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\bin\Debug\PracticaParcial2.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaParcial2\PracticaParcial2\PracticaParcial2\PracticaParcial2\obj\Debug\PracticaParcial2.pdb
