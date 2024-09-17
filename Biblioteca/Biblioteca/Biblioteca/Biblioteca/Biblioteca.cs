@@ -9,15 +9,21 @@ namespace Biblioteca
 {
     internal class Biblioteca
     {
+        //__Listas privadas relacion de ensamble a clases LIBRO-GENERO-AUTOR.
         private List<Libro> _libros;
+        private List<Genero> _generos;
+        private List<Autor> _autores;
 
-        public Biblioteca() 
+        //__Constructores__
+        public Biblioteca()
         {
             this._libros = new List<Libro>();
+            this._generos = new List<Genero>();
+            this._autores = new List<Autor>();
         }
 
         //__Metodos__
-        public void LeerArchivo() 
+        public void LeerArchivoLibros()
         {
             FileStream Archivo = new FileStream("libros.txt", FileMode.Open);
             StreamReader Leer = new StreamReader(Archivo);
@@ -40,9 +46,51 @@ namespace Biblioteca
 
             Leer.Close();
             Archivo.Close();
+            
         }
 
-        public void MostrarTodosLosLibros() 
+        public void LeerArchivoAutores() 
+        {
+            FileStream Archivo3 = new FileStream("autores.txt", FileMode.Open);
+            StreamReader Leer3 = new StreamReader(Archivo3);
+
+            while (!Leer3.EndOfStream)
+            {
+                string cadena = Leer3.ReadLine();
+                string[] datos = cadena.Split(';');
+                Autor aut = new Autor(
+                    int.Parse(datos[0]),
+                    datos[1],
+                    datos[2]);
+
+                this._autores.Add(aut);
+            }
+
+            Leer3.Close();
+            Archivo3.Close();
+        }
+
+        public void LeerArchivoGenero() 
+        {
+            FileStream Archivo2 = new FileStream("generos.txt", FileMode.Open);
+            StreamReader Leer2 = new StreamReader(Archivo2);
+
+            while (!Leer2.EndOfStream)
+            {
+                string cadena = Leer2.ReadLine();
+                string[] datos = cadena.Split(';');
+                Genero gen = new Genero(
+                    int.Parse(datos[0]),
+                    datos[1]);
+
+                this._generos.Add(gen);
+            }
+
+            Leer2.Close();
+            Archivo2.Close();
+        }
+
+        public void MostrarTodosLosLibros()
         {
             foreach (Libro item in this._libros)
             {
@@ -58,56 +106,79 @@ namespace Biblioteca
             Console.WriteLine("Reporte de libros prestados");
 
             foreach (Libro item in this._libros)
-            {             
+            {
                 if (item.Estado == 'P')
                 {
-                      
                     item.MostrarLibro();
-                }              
+                }
             }
             Console.WriteLine("****************************");
         }
 
-        public void BusquedaDeUnLibro() 
+        public void BusquedaDeUnLibro()
         {
             Console.WriteLine("Ingresa el ID para buscar el libro");
-            int idIngresado =int.Parse(Console.ReadLine());
+            int idIngresado = int.Parse(Console.ReadLine());
 
-            foreach (Libro item in this._libros) 
+            foreach (Libro item in this._libros)
             {
-                if (idIngresado == item.IDLibro) 
+                if (idIngresado == item.IDLibro)
                 {
-                    Console.WriteLine($"{item.Titulo}");
+                    Console.WriteLine($"TITULO: {item.Titulo} , ESTADO: {item.Estado} , UBICACION: {item.Ubicacion}");
                 }
             }
         }
 
         public void BusquedaDeLibriosPorAutor()
         {
-            Console.WriteLine("Ingresa titulo del libro");
-            string titulo = Console.ReadLine();
+            LeerArchivoAutores();
+            LeerArchivoGenero();
 
-            foreach (Libro item in this._libros)
+            Console.WriteLine("Ingresa el ID Autor de libro para buscar");
+            string IdAutor = Console.ReadLine();
+
+            foreach (Autor item in this._autores)
             {
-                if (titulo == item.Titulo)
+                if (IdAutor == item.Nombre)
                 {
-                    Console.WriteLine($"{item.Titulo}");
+                    foreach (Libro item2 in this._libros)
+                    {
+                        if (item.IDAutor == item2.IDAutor)
+                        {
+                            foreach (Genero item3 in this._generos)
+                            {
+                                if (item3.IdGenero == item2.IdGenero) 
+                                {
+                                    Console.WriteLine($"{item2.Titulo}, {item3.Gener}, {item.Nombre}, {item2.Estado}, {item2.Ubicacion}");
+                                }                             
+                            }
+                        }
+                    }
                 }
             }
         }
 
-        public void BusquedaDeLibriosPorGenero()
-        {
-            Console.WriteLine("Ingresa genero del libro");
-            string genero = Console.ReadLine();
+        //public void BusquedaDeLibriosPorGenero()
+        //{
 
-            foreach (Libro item in this._libros)
-            {
-                if (genero == item.IdGenero)
-                {
-                    Console.WriteLine($"{item.Titulo}");
-                }
-            }
-        }
+        //    FileStream Archivo = new FileStream("generos.txt", FileMode.Open);
+        //    StreamReader Leer = new StreamReader(Archivo);
+
+        //    while (!Leer.EndOfStream)
+        //    {
+        //        string cadena = Leer.ReadLine();
+        //        string[] datos = cadena.Split(';');
+        //        Genero gen = new Genero(
+        //            int.Parse(datos[0]),
+        //            datos[1]);
+
+        //        this._generos.Add(gen);
+        //    }
+
+        //    Leer.Close();
+        //    Archivo.Close();
+        //}
     }
 }
+
+

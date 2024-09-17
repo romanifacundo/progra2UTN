@@ -23,7 +23,7 @@ namespace Biblioteca
             this.IDLibro = idLib;
             this.Titulo = titu;
             this.IdGenero = gen;
-            this.IdAutor = idAut;
+            this.IDAutor = idAut;
             this.Anio = anio;
             this.Ubicacion = ubi;
             this.Estado = esta;
@@ -48,7 +48,7 @@ namespace Biblioteca
             set { this._idGenero = value; }
         }
 
-        public int IdAutor
+        public int IDAutor
         {
             get { return this._idAutor; }
             set { this._idAutor = value; }
@@ -80,7 +80,7 @@ namespace Biblioteca
 
         public void MostrarLibro() 
         {
-            Console.WriteLine($"IdLibro: {this.IDLibro},Titulo: {this.Titulo},IdGenero: {this.IdGenero},IdAutor {this.IdAutor},Anio: {this.Anio}, Ubicacion: {this.Ubicacion}, Estado: {this.Estado}");
+            Console.WriteLine($"IdLibro: {this.IDLibro},Titulo: {this.Titulo},IdGenero: {this.IdGenero},IdAutor {this.IDAutor},Anio: {this.Anio}, Ubicacion: {this.Ubicacion}, Estado: {this.Estado}");
         }
     }
 }

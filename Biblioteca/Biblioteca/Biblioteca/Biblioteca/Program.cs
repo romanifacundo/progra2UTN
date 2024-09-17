@@ -11,7 +11,7 @@ namespace Biblioteca
         static void Main(string[] args)
         {
             Biblioteca biblioteca = new Biblioteca();
-            biblioteca.LeerArchivo();
+            biblioteca.LeerArchivoLibros();
             biblioteca.MostrarTodosLosLibros();
             biblioteca.ReporteLibrosPrestados();
             biblioteca.BusquedaDeUnLibro();
