@@ -46,48 +46,63 @@ namespace PracticaParcial2
         {
             int totalProductos = 0;
             float acumPrecio = 0;
-            float totalPromedio = 0;
-            int cantlib = 0;
-            int cantFerr = 0;
-            int cantElec = 0;
-            int cantKios = 0;
+            int contLibreria = 0;
+            float sumaPrecioLib = 0;
+            int contFerreteria = 0;
+            float acumFerreteria = 0;
+            int contElectronica = 0;
+            float acumElectronica = 0;
+            int contKiosco = 0;
+            float acumKiosco = 0;
 
             foreach (Producto item in this._listaProductos)
             {
                 item.MostrarDatosProducto();
                 totalProductos = this._listaProductos.Count;
-                acumPrecio += item.CalcularPrecio();
+                acumPrecio += item.Precio;
 
                 if (item.Rubro == "libreria")
                 {
-                    cantlib++;
+                    contLibreria++;
+                    sumaPrecioLib += item.Precio;
                 }
-                else if (item.Rubro == "ferreteria")
+                if (item.Rubro == "ferreteria")
                 {
-                    cantFerr++;
+                    contFerreteria++;
+                    acumFerreteria += item.Precio;
                 }
-                else if (item.Rubro == "electronica")
+                if (item.Rubro == "electronica")
                 {
-                    cantElec++; 
+                    contElectronica++;
+                    acumElectronica += item.Precio;
                 }
-                else if (item.Rubro == "kiosco")
+                if (item.Rubro == "kiosco")
                 {
-                    cantKios++; 
+                    contKiosco++;
+                    acumKiosco += item.Precio;
                 }
             }
 
-            totalPromedio = acumPrecio / totalProductos;
+            Console.WriteLine("\n");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(" Resumen solicitado:");
 
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\n");
-            Console.WriteLine("total productos " + totalProductos);
+            Console.WriteLine(" La cantidad de los articulos es: " + totalProductos);
             Console.WriteLine("\n");
-            Console.WriteLine("Promedio del precio de cada producto " + totalPromedio);
+            Console.WriteLine(" El promedio de precios de libreria es: " + sumaPrecioLib / contLibreria);
+            Console.WriteLine(" La cantidad de atriculos en libreria es: " + contLibreria);
             Console.WriteLine("\n");
-            Console.WriteLine("TOTAL LIBRERIA: " + cantlib);
-            Console.WriteLine("TOTAL FERRETERIA: " + cantFerr);
-            Console.WriteLine("TOTAL ELECTRONICA: " + cantElec);
-            Console.WriteLine("TOTAL KIOSCO: " + cantKios);
+            Console.WriteLine(" El promedio de precios de ferreteria es: " + acumFerreteria / contFerreteria);
+            Console.WriteLine(" La cantidad de atriculos en ferreteria es: " + contFerreteria);
+            Console.WriteLine("\n");
+            Console.WriteLine(" El promedio de precios de electronica es: " + acumElectronica / contElectronica);
+            Console.WriteLine(" La cantidad de atriculos en electronica es: " + contElectronica);
+            Console.WriteLine("\n");
+            Console.WriteLine(" El promedio de precios de kiosco es: " + acumKiosco / contKiosco);
+            Console.WriteLine(" La cantidad de atriculos en Kiosco es: " + contKiosco);
+
         }
 
     }

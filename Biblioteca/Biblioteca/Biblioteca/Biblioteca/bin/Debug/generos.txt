@@ -1,0 +1,10 @@
+1;Ciencia Ficción
+2;Romántico
+3;Thriller
+4;Fantástico
+5;Misterio
+6;Horror
+7;Histórico
+8;Aventura
+9;Drama
+10;Comedia

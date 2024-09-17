@@ -1,0 +1,10 @@
+1;Isaac Asimov
+2;Jane Austen
+3;Agatha Christie
+4;J.K. Rowling
+5;Stephen King
+6;George R.R. Martin
+7;Ernest Hemingway
+8;Mark Twain
+9;J.D. Salinger
+10;Franz Kafka

@@ -1,0 +1,7 @@
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\fromani\Desktop\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

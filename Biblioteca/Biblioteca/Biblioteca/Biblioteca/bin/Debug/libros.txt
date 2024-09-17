@@ -1,0 +1,30 @@
+1;Fundación;1;1;1951;23;P
+2;Orgullo y prejuicio;2;2;1813;45;P
+3;Asesinato en el Orient Express;3;3;1934;67;D
+4;Harry Potter y la piedra filosofal;4;4;1997;89;P
+5;Carrie;5;5;1974;56;P
+6;Juego de tronos;6;6;1996;34;P
+7;El viejo y el mar;7;7;1952;12;D
+8;Las aventuras de Tom Sawyer;8;8;1876;78;P
+9;El guardián entre el centeno;9;9;1951;99;D
+10;La metamorfosis;10;10;1915;22;P
+11;Neuromante;1;1;1984;63;P
+12;Emma;2;2;1815;51;D
+13;Diez negritos;3;3;1939;80;P
+14;El caliz de fuego;4;4;2005;44;P
+15;It;5;5;1986;71;D
+16;Choque de reyes;6;6;1998;90;P
+17;Por quien doblan las campanas;7;7;1940;25;D
+18;Las aventuras de Huckleberry Finn;8;8;1884;68;P
+19;Frankenstein;10;10;1818;33;D
+20;El fin de la eternidad;1;1;1955;59;P
+21;Persuasión;2;2;1818;76;P
+22;El asesinato de Roger Ackroyd;3;3;1926;47;D
+23;La cámara secreta;4;4;1998;55;P
+24;Misery;5;5;1987;62;P
+25;Una danza de dragones;6;6;2011;40;D
+26;Adiós a las armas;7;7;1929;81;P
+27;Las aventuras de Tom Sawyer;8;8;1876;23;D
+28;La metamorfosis;10;10;1915;89;P
+29;El hombre en el castillo;1;1;1962;14;D
+30;Orgullo y prejuicio;2;2;1813;48;P

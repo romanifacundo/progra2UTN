@@ -15,7 +15,7 @@ namespace PracticaParcial2
         private string _rubro;
         private int _ganancia;
         private int _costo;
-        private float _precio;
+  
 
         //__Constructor__
         public Producto(int codigo, string rubro, string descripcion, int ganancia, int costo)
@@ -25,7 +25,6 @@ namespace PracticaParcial2
             this.Descripcion = descripcion;
             this.Costo = costo;
             this.Ganancia = ganancia;
-            CalcularPrecio();
         }
 
         //__Metodos de propiedades publicas__
@@ -57,7 +56,7 @@ namespace PracticaParcial2
 
         public float Precio
         {
-            get { return this._precio; }
+            get { return this._costo + (this._costo * this._ganancia / 100);  }
         }
 
 
@@ -66,11 +65,12 @@ namespace PracticaParcial2
         {
             //Codigo: xxxx – Rubro: xxxx – Descripcion: xxxx – Costo: xxxx - % de ganancia: xx – Precio: xxxx
             Console.WriteLine($"Codigo: {this.Codigo} – Rubro: {this.Rubro} – Descripcion: {this.Descripcion} – Costo: {this.Costo} - % de ganancia: {this.Ganancia} – Precio: {this.Precio}");
+            //Console.WriteLine("Codigo: {0} – Rubro: {1} – Descripcion: {2} – Costo: {3} - % de ganancia: {4} – Precio: {5}", this.Codigo,this.Rubro,this.Descripcion,this.Costo,this.Ganancia,this.Precio);
         }
 
-        public float CalcularPrecio()
-        {
-            return this._precio = this._costo + (this._costo * this._ganancia) / 100; ;
-        }
+        //public float CalcularPrecio()
+        //{
+        //    return this._precio = this._costo + (this._costo * this._ganancia) / 100;
+        //}
     }
 }
