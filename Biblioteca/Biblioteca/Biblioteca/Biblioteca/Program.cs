@@ -16,6 +16,8 @@ namespace Biblioteca
             biblioteca.ReporteLibrosPrestados();
             biblioteca.BusquedaDeUnLibro();
             biblioteca.BusquedaDeLibriosPorAutor();
+            biblioteca.BusquedaDeLibriosPorGenero();
+
             Console.ReadKey();
         }
     }

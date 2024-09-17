@@ -134,12 +134,12 @@ namespace Biblioteca
             LeerArchivoAutores();
             LeerArchivoGenero();
 
-            Console.WriteLine("Ingresa el ID Autor de libro para buscar");
-            string IdAutor = Console.ReadLine();
+            Console.WriteLine("Ingresa el Autor de libro para buscar");
+            string autor = Console.ReadLine();
 
             foreach (Autor item in this._autores)
             {
-                if (IdAutor == item.Nombre)
+                if (autor == item.Nombre)
                 {
                     foreach (Libro item2 in this._libros)
                     {
@@ -158,26 +158,25 @@ namespace Biblioteca
             }
         }
 
-        //public void BusquedaDeLibriosPorGenero()
-        //{
+        public void BusquedaDeLibriosPorGenero()
+        {
+            Console.WriteLine("Ingresa el Genero del libro para buscar");
+            string genero = Console.ReadLine();
 
-        //    FileStream Archivo = new FileStream("generos.txt", FileMode.Open);
-        //    StreamReader Leer = new StreamReader(Archivo);
-
-        //    while (!Leer.EndOfStream)
-        //    {
-        //        string cadena = Leer.ReadLine();
-        //        string[] datos = cadena.Split(';');
-        //        Genero gen = new Genero(
-        //            int.Parse(datos[0]),
-        //            datos[1]);
-
-        //        this._generos.Add(gen);
-        //    }
-
-        //    Leer.Close();
-        //    Archivo.Close();
-        //}
+            for (int i = 0; i < this._generos.Count; i++)
+            {
+                if(genero == this._generos[i].Gener) 
+                {
+                    for (int x = 0; x < this._libros.Count; x++)
+                    {
+                        if(this._generos[i].IdGenero == this._libros[x].IdGenero)
+                        {
+                            this._libros[x].MostrarLibro();
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 
