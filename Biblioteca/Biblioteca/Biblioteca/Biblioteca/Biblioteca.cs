@@ -46,10 +46,10 @@ namespace Biblioteca
 
             Leer.Close();
             Archivo.Close();
-            
+
         }
 
-        public void LeerArchivoAutores() 
+        public void LeerArchivoAutores()
         {
             FileStream Archivo3 = new FileStream("autores.txt", FileMode.Open);
             StreamReader Leer3 = new StreamReader(Archivo3);
@@ -70,7 +70,7 @@ namespace Biblioteca
             Archivo3.Close();
         }
 
-        public void LeerArchivoGenero() 
+        public void LeerArchivoGenero()
         {
             FileStream Archivo2 = new FileStream("generos.txt", FileMode.Open);
             StreamReader Leer2 = new StreamReader(Archivo2);
@@ -147,10 +147,10 @@ namespace Biblioteca
                         {
                             foreach (Genero item3 in this._generos)
                             {
-                                if (item3.IdGenero == item2.IdGenero) 
+                                if (item3.IdGenero == item2.IdGenero)
                                 {
                                     Console.WriteLine($"{item2.Titulo}, {item3.Gener}, {item.Nombre}, {item2.Estado}, {item2.Ubicacion}");
-                                }                             
+                                }
                             }
                         }
                     }
@@ -165,17 +165,39 @@ namespace Biblioteca
 
             for (int i = 0; i < this._generos.Count; i++)
             {
-                if(genero == this._generos[i].Gener) 
+                if (genero == this._generos[i].Gener)
                 {
                     for (int x = 0; x < this._libros.Count; x++)
                     {
-                        if(this._generos[i].IdGenero == this._libros[x].IdGenero)
+                        if (this._generos[i].IdGenero == this._libros[x].IdGenero)
                         {
                             this._libros[x].MostrarLibro();
                         }
                     }
                 }
             }
+        }
+
+        public void ActualizarArchivoLibros()
+        {
+            Console.WriteLine("PEDIR UN LIBRO");
+            int idLib = int.Parse(Console.ReadLine());
+
+            foreach (Libro item in this._libros)
+            {
+                if (idLib == item.IDLibro && item.Estado == 'D')
+                {
+                    item.CambioDeEstado();
+
+                    FileStream Archivo = new FileStream("libros.txt", FileMode.Append);
+                    StreamWriter Grabar = new StreamWriter(Archivo);
+
+                    Grabar.WriteLine(item.IDLibro + ";" + item.Titulo + ";" + item.IdGenero + ";" + item.IDAutor + ";" + item.Anio + ";" + item.Ubicacion + ";" + item.Estado);
+
+                    Grabar.Close();
+                    Archivo.Close();
+                }
+            }     
         }
     }
 }

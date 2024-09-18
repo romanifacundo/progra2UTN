@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,7 @@ namespace Biblioteca
         private char _estado;
 
         //__Constructores__
-        public Libro(int idLib,string titu,int gen,int idAut, int anio, string ubi,char esta) 
+        public Libro(int idLib, string titu, int gen, int idAut, int anio, string ubi, char esta)
         {
             this.IDLibro = idLib;
             this.Titulo = titu;
@@ -30,10 +31,10 @@ namespace Biblioteca
         }
 
         //__Metodo de propiedades publicas__
-        public int IDLibro 
+        public int IDLibro
         {
             get { return this._idLibro; }
-            set { this._idLibro = value;}
+            set { this._idLibro = value; }
         }
 
         public string Titulo
@@ -73,14 +74,22 @@ namespace Biblioteca
         }
 
         //__Metodos__
-        public void CambioDeEstado() 
+        public void CambioDeEstado()
         {
-
+            if (this.Estado == 'D')
+            {
+                this.Estado = 'P';
+            }
+            else if (this.Estado == 'P')
+            {
+                Console.WriteLine("prestado.");
+            }
         }
 
-        public void MostrarLibro() 
+        public void MostrarLibro()
         {
             Console.WriteLine($"IdLibro: {this.IDLibro},Titulo: {this.Titulo},IdGenero: {this.IdGenero},IdAutor {this.IDAutor},Anio: {this.Anio}, Ubicacion: {this.Ubicacion}, Estado: {this.Estado}");
         }
     }
 }
+

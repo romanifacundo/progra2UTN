@@ -28,3 +28,5 @@
 28;La metamorfosis;10;10;1915;89;P
 29;El hombre en el castillo;1;1;1962;14;D
 30;Orgullo y prejuicio;2;2;1813;48;P
+3;Asesinato en el Orient Express;3;3;1934;67;P
+9;El guardián entre el centeno;9;9;1951;99;P

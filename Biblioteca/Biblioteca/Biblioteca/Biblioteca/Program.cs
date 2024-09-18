@@ -17,7 +17,7 @@ namespace Biblioteca
             biblioteca.BusquedaDeUnLibro();
             biblioteca.BusquedaDeLibriosPorAutor();
             biblioteca.BusquedaDeLibriosPorGenero();
-
+            biblioteca.ActualizarArchivoLibros();
             Console.ReadKey();
         }
     }
