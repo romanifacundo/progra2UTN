@@ -183,21 +183,27 @@ namespace Biblioteca
             Console.WriteLine("PEDIR UN LIBRO");
             int idLib = int.Parse(Console.ReadLine());
 
+            LeerArchivoLibros();
+       
             foreach (Libro item in this._libros)
             {
                 if (idLib == item.IDLibro && item.Estado == 'D')
                 {
-                    item.CambioDeEstado();
-
-                    FileStream Archivo = new FileStream("libros.txt", FileMode.Append);
-                    StreamWriter Grabar = new StreamWriter(Archivo);
-
-                    Grabar.WriteLine(item.IDLibro + ";" + item.Titulo + ";" + item.IdGenero + ";" + item.IDAutor + ";" + item.Anio + ";" + item.Ubicacion + ";" + item.Estado);
-
-                    Grabar.Close();
-                    Archivo.Close();
+                    item.CambioDeEstado(); 
                 }
-            }     
+            }
+
+            //----escribimos todos los libros al archivo incluyendo el cambio---- 
+            FileStream Archivo = new FileStream("libros.txt", FileMode.Create);
+            StreamWriter Grabar = new StreamWriter(Archivo);
+
+            foreach (Libro item in this._libros)
+            {
+                Grabar.WriteLine(item.IDLibro + ";" + item.Titulo + ";" + item.IdGenero + ";" + item.IDAutor + ";" + item.Anio + ";" + item.Ubicacion + ";" + item.Estado);
+            }
+
+            Grabar.Close();
+            Archivo.Close();
         }
     }
 }
