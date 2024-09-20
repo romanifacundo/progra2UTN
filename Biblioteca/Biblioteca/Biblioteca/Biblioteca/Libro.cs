@@ -80,7 +80,7 @@ namespace Biblioteca
             {
                 this.Estado = 'P';
             }
-            else if (this.Estado == 'P')
+            else
             {
                 Console.WriteLine("prestado.");
             }

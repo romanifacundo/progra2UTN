@@ -193,7 +193,7 @@ namespace Biblioteca
                 }
             }
 
-            //----escribimos todos los libros al archivo incluyendo el cambio---- 
+            //----escribo todos los libros al archivo incluyendo el cambio---- 
             FileStream Archivo = new FileStream("libros.txt", FileMode.Create);
             StreamWriter Grabar = new StreamWriter(Archivo);
 
