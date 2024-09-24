@@ -11,10 +11,10 @@ namespace PracticaHerencia
         private long P_Patente;
         private string P_Color;
 
-        public Vehiculo() 
+        public Vehiculo(long pat, string col) 
         {
-            this.Patente = 9999;
-            this.Color = "";
+            this.Patente = pat;
+            this.Color = col;
         }
 
         public long Patente

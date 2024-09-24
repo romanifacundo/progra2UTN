@@ -10,7 +10,7 @@ namespace PracticaHerencia
     {
         private string P_Nombre;
 
-        public Auto(string nom) 
+        public Auto(long pat, string col, string nom) : base(pat, col)
         {
             this.Nombre = nom;
         }

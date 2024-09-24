@@ -31,7 +31,7 @@ namespace PracticaHerencia
                         string Nombre = Console.ReadLine();
                         Console.WriteLine("================");
 
-                        Auto auto = new Auto("");
+                        Auto auto = new Auto(Patente , Color , Nombre);
                         _ListaAutos.Add(auto);
 
                         break;
