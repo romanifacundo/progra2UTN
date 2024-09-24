@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\bin\Debug\PracticaHerencia.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\bin\Debug\PracticaHerencia.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\bin\Debug\PracticaHerencia.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\obj\Debug\PracticaHerencia.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\obj\Debug\PracticaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\obj\Debug\PracticaHerencia.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\PracticaHerencia\PracticaHerencia\PracticaHerencia\obj\Debug\PracticaHerencia.pdb
