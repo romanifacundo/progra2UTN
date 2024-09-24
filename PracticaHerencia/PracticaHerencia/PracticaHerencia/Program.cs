@@ -12,7 +12,8 @@ namespace PracticaHerencia
         {
             List<Auto> _ListaAutos = new List<Auto>();
             int opc;
-      
+            string confirmar;
+
             do
             {
                 Menu();
@@ -20,23 +21,32 @@ namespace PracticaHerencia
 
                 switch (opc)
                 {
-                    case 1:
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine("================");
-                        Console.WriteLine("Ingresa numero de patente");
-                        long Patente = long.Parse(Console.ReadLine());
-                        Console.WriteLine("Ingresa Color");
-                        string Color = Console.ReadLine();
-                        Console.WriteLine("Ingresa Nombre");
-                        string Nombre = Console.ReadLine();
-                        Console.WriteLine("================");
+                    case 1: 
 
-                        Auto auto = new Auto(Patente , Color , Nombre);
-                        _ListaAutos.Add(auto);
+                        do
+                        {
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine("================");
+                            Console.WriteLine("Ingresa numero de patente");
+                            long Patente = long.Parse(Console.ReadLine());
+                            Console.WriteLine("Ingresa Color");
+                            string Color = Console.ReadLine();
+                            Console.WriteLine("Ingresa Nombre");
+                            string Nombre = Console.ReadLine();
+                            Console.WriteLine("================");
+       
+                            Auto auto = new Auto(Patente, Color, Nombre);
+                            _ListaAutos.Add(auto);
 
+                            Console.WriteLine("QUIERES SEGUIR CARGANDO AUTOS ingresa S/N  S(SI) N(NO)");
+                            confirmar = Console.ReadLine().ToLower();
+
+                        } while (confirmar == "s");
+                        
                         break;
                     
                     case 2:
+
                         Console.Clear();
                         Console.WriteLine("================");
                         Console.WriteLine("Listado de vehículos:");
@@ -45,15 +55,19 @@ namespace PracticaHerencia
                         {
                             Console.WriteLine($"Patente: {i.Patente} - Color: {i.Color} - Nombre: {i.Nombre}");
                         }
+
                         Console.WriteLine("================");
+                        Console.ReadKey();
 
                         break;
 
                     default:
+
                         if (opc != 0)
                         {
                             Console.WriteLine("Opción inválida");
                         }
+
                         break;
                 }
             } 
@@ -61,7 +75,6 @@ namespace PracticaHerencia
 
             Console.ReadKey();
         }
-
 
 
         static void Menu()
