@@ -24,25 +24,46 @@ namespace Empresa
         //__Metodos de propiedades publicas__
         public string Nombre
         {
-            get { return this.P_Nombre; }
-            set { this.P_Nombre = value; }
+            get 
+            { 
+                return this.P_Nombre;
+            }
+            set 
+            { 
+                this.P_Nombre = value; 
+            }
         }
 
         public string Apellido
         {
-            get { return this.P_Apellido; }
-            set { this.P_Apellido = value; }
+            get 
+            { 
+                return this.P_Apellido; 
+            }
+            set 
+            { 
+                this.P_Apellido = value; 
+            }
         }
 
         public DateTime FechaNacimiento
         {
-            get { return this.P_FechaNacimiento; }
-            set { this.P_FechaNacimiento = value; }
+            get 
+            { 
+                return this.P_FechaNacimiento; 
+            }
+            set 
+            { 
+                this.P_FechaNacimiento = value; 
+            }
         }
 
         public int Edad
         {
-            get { int edad = DateTime.Now.Year - this.FechaNacimiento.Year; return edad; }      
+            get 
+            { 
+                return DateTime.Now.Year - this.FechaNacimiento.Year; 
+            }      
         }
 
     }
