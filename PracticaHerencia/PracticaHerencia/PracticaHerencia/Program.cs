@@ -70,8 +70,7 @@ namespace PracticaHerencia
 
                         break;
                 }
-            } 
-            while (opc != 0);
+            } while (opc != 0);
 
             Console.ReadKey();
         }

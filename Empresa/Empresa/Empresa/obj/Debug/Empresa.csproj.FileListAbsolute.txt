@@ -1,0 +1,7 @@
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\UTN - FRSN\Programación 2\Empresa\Empresa\Empresa\obj\Debug\Empresa.pdb
