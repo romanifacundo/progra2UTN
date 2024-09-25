@@ -8,7 +8,7 @@ namespace Empresa
 {
     internal class Empleado
     {
-        //__Propiedade privadas__
+        //__Propiedades privadas__
         private string P_Nombre;
         private string P_Apellido;
         private DateTime P_FechaNacimiento;
@@ -18,7 +18,7 @@ namespace Empresa
         {
             this.Nombre = nom;
             this.Apellido = ape;
-            this.FechaNacimiento = fechaNac;
+            this.FechaNacimiento = fechaNac; 
         }
 
         //__Metodos de propiedades publicas__
