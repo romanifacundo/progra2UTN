@@ -1,0 +1,14 @@
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.exe.config
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.exe
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.pdb
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.csproj.AssemblyReference.cache
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.csproj.CoreCompileInputs.cache
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.exe
+C:\Users\fromani\Desktop\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.exe.config
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\bin\Debug\Parcial_progra2_RomaniFacundo.pdb
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.csproj.AssemblyReference.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.csproj.CoreCompileInputs.cache
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.exe
+C:\Users\Facun\OneDrive - frsn.utn.edu.ar\Escritorio\Parcial_Romani\Parcial_progra2_RomaniFacundo\Parcial_progra2_RomaniFacundo\obj\Debug\Parcial_progra2_RomaniFacundo.pdb

@@ -1,0 +1,33 @@
+El Alquimista;Paulo Coelho;Ficcion;10;si;si
+Cien Años de Soledad;Gabriel Garcia Marquez;Ficcion;15;no;si
+1984;George Orwell;Distopia;12;si;no
+Orgullo y Prejuicio;Jane Austen;Romance;8;no;si
+La Sombra del Viento;Carlos Ruiz Zafon;Ficcion;18;si;si
+El Nombre de la Rosa;Umberto Eco;Misterio;14;si;no
+Rayuela;Julio Cortazar;Ficcion;9;no;si
+El Hobbit;J.R.R. Tolkien;Fantasia;11;si;si
+Los Pilares de la Tierra;Ken Follett;Historica;20;no;si
+El Principito;Antoine de Saint-Exupery;Infantil;7;si;si
+Crimen y Castigo;Fiódor Dostoyevski;Ficcion;13;no;no
+Mujer en Punto Cero;Nawal El Saadawi;Ficcion;11;si;si
+La Casa de los Espíritus;Isabel Allende;Ficcion;16;si;no
+El Guardian entre el Centeno;J.D. Salinger;Ficcion;10;no;si
+Fahrenheit 451;Ray Bradbury;Ciencia Ficcion;12;si;no
+La Metamorfosis;Franz Kafka;Ficcion;8;no;si
+Las Aventuras de Tom Sawyer;Mark Twain;Infantil;9;si;si
+Un Mundo Feliz;Aldous Huxley;Distopia;15;no;no
+El Túnel;Ernesto Sabato;Ficcion;14;si;si
+El Retrato de Dorian Gray;Oscar Wilde;Ficcion;13;no;si
+El Silmarillion;J.R.R. Tolkien;Fantasia;19;si;no
+En Busca del Tiempo Perdido;Marcel Proust;Ficcion;22;no;no
+El Juego del Angel;Carlos Ruiz Zafon;Ficcion;17;si;si
+La Chica del Tren;Paula Hawkins;Thriller;12;no;si
+Bajo la Misma Estrella;John Green;Romance;11;si;si
+La Ladrona de Libros;Markus Zusak;Historica;14;no;si
+Cumbres Borrascosas;Emily Brontë;Ficcion;10;si;no
+El Jorobado de Notre Dame;Victor Hugo;Ficcion;9;no;si
+La Isla del Tesoro;Robert Louis Stevenson;Aventura;10;si;si
+En la Sombra del Arce;Rafael Sabatini;Aventura;13;no;no
+Harry Potter y la Piedra Filosofal;J.K. Rowling;Fantasia;15;si;si
+El Secreto;Rhonda Byrne;Autoayuda;18;no;si
+La guerra de los mundos;H.G. Wells;Ciencia Ficcion;12;si;no
