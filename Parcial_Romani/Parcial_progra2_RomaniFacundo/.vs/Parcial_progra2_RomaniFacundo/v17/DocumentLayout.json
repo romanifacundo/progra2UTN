@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\",
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\escritorio\\parcial_romani\\parcial_progra2_romanifacundo\\parcial_progra2_romanifacundo\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\parcial_progra2_romanifacundo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|solutionrelative:parcial_progra2_romanifacundo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\parcial_romani\\parcial_progra2_romanifacundo\\parcial_progra2_romanifacundo\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|solutionrelative:parcial_progra2_romanifacundo\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\parcial_progra2_romanifacundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\parcial_progra2_romanifacundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|solutionrelative:parcial_progra2_romanifacundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\parcial_progra2_romanifacundo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33CECB56-2D6C-4552-9B74-1FBDD67EBA54}|Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo.csproj|solutionrelative:parcial_progra2_romanifacundo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Biblioteca.cs",
-              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
               "RelativeDocumentMoniker": "Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
-              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
               "RelativeToolTip": "Parcial_progra2_RomaniFacundo\\Biblioteca.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv2gAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:49:56.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Libro.cs",
               "RelativeDocumentMoniker": "Parcial_progra2_RomaniFacundo\\Libro.cs",
-              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Libro.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Libro.cs",
               "RelativeToolTip": "Parcial_progra2_RomaniFacundo\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:49:56.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Program.cs",
               "RelativeDocumentMoniker": "Parcial_progra2_RomaniFacundo\\Program.cs",
-              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\Escritorio\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Parcial_Romani\\Parcial_progra2_RomaniFacundo\\Parcial_progra2_RomaniFacundo\\Program.cs",
               "RelativeToolTip": "Parcial_progra2_RomaniFacundo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T01:49:56.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T01:49:56.389Z"
             }
           ]
         }

@@ -77,8 +77,8 @@ namespace Parcial_progra2_RomaniFacundo
                     dat2 = true;
                 }
                 else
-                { 
-                   dat2 = false;
+                {
+                    dat2 = false;
                 }
 
                 Libro libro = new Libro(
@@ -93,8 +93,8 @@ namespace Parcial_progra2_RomaniFacundo
                 {
                     this.libros_no_disponibles.Add(libro);
                 }
-                
-                if(dat2 == true) 
+
+                if (dat2 == true)
                 {
                     this.libros_disponibles.Add(libro);
                 }
@@ -113,10 +113,7 @@ namespace Parcial_progra2_RomaniFacundo
             Console.WriteLine("\n");
             foreach (Libro item in this.libros_disponibles)
             {
-                if (item.Disponibilidad == true)
-                {
-                    item.MostrarLibro();
-                }
+                item.MostrarLibro();
             }
         }
 
@@ -130,10 +127,7 @@ namespace Parcial_progra2_RomaniFacundo
             Console.WriteLine("\n");
             foreach (Libro item in this.libros_no_disponibles)
             {
-                if (item.Disponibilidad == false)
-                {
-                    item.MostrarLibro();
-                }
+                item.MostrarLibro();
             }
         }
 
