@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|c:\\users\\facun\\onedrive - frsn.utn.edu.ar\\utn - frsn\\programaci\u00F3n 2\\empresa\\empresa\\empresa\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|solutionrelative:empresa\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\empresa\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|solutionrelative:empresa\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|solutionrelative:empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\empresa\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA452B-B46E-42A5-AAAD-6650FE031734}|Empresa\\Empresa.csproj|solutionrelative:empresa\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Program.cs",
+              "RelativeDocumentMoniker": "Empresa\\Program.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Program.cs",
+              "RelativeToolTip": "Empresa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:37:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empresa\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Empleado.cs",
+              "RelativeToolTip": "Empresa\\Empleado.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:33:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Supervisor.cs",
+              "RelativeDocumentMoniker": "Empresa\\Supervisor.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Supervisor.cs",
+              "RelativeToolTip": "Empresa\\Supervisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:33:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jefe.cs",
+              "DocumentMoniker": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Jefe.cs",
+              "RelativeDocumentMoniker": "Empresa\\Jefe.cs",
+              "ToolTip": "C:\\Users\\Facun\\OneDrive - frsn.utn.edu.ar\\UTN - FRSN\\Programaci\u00F3n 2\\Empresa\\Empresa\\Empresa\\Jefe.cs",
+              "RelativeToolTip": "Empresa\\Jefe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:33:10.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

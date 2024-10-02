@@ -18,7 +18,7 @@ namespace Empresa
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("_____________________________________________________________________________");
-            Console.WriteLine($"Contratar al empleado Nombre: {this.Nombre}  Apellido: {this.Apellido} Edad: {this.Edad}");
+            Console.WriteLine($"Contratar al empleado Nombre: {Nombre}  Apellido: {Apellido} Edad: {Edad}");
             Console.WriteLine("_____________________________________________________________________________");
         }
 
